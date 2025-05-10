@@ -22,6 +22,6 @@ Welcome to my GitHub! I'm a passionate developer with a focus on **Java**, **Go*
    - Frontend: [**CRM Trading WebApp**](https://github.com/artemka-web3/crm_trading_webapp)
    - Backend (API): [**API CRM Trading**](https://github.com/artemka-web3/api_crm_trading)
 8. [**Trader Bot**](https://github.com/artemka-web3/trader_bot) – Developed a trading bot to automate trading strategies.
-9. [**CU Mock Telegram Bot**](https://github.com/Txpho0n/prump_2.0/tree/dev) - Developed a telegram bot for T-Bank career center and Central University. Worked with multithreading and JBDC
+9. [**CU Mock Telegram Bot**](https://github.com/Txpho0n/prump_2.0/tree/dev) - Developed a telegram bot for career center of Central University. Worked with multithreading and JBDC
 
 Feel free to explore my projects and reach out if you're interested in collaborating!
