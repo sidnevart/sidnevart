@@ -46,7 +46,7 @@ Advanced Java Concurrency • Advanced Data Bases • Reading Books • Java Pat
 | [Trader Bot](https://github.com/artemka-web3/trader_bot)                         | Automated trading strategies.                                | Python                        |
 | [CU Mock Telegram Bot](https://github.com/Txpho0n/prump_2.0/tree/dev)            | Telegram бот для карьерного центра, multithreading + JDBC.   | Java, Telegram API            |
 | [CU Mock Backend](https://github.com/sidnevart/cumock_backend)                   | Backend часть платформы для мок-собесов.                     | Java, Spring Boot, PostgreSQL |
-
+| [Cu MOck Full Service](https://github.com/sidnevart/cumock)                      | Репозиторий с полным проектом (пока готов только бэк)        | Java, SPring Boot, React      |
 ---
 
 ### 📫 How to reach me
