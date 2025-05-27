@@ -1,4 +1,3 @@
----
 
 ### 🛠 Tech Stack
 
@@ -7,23 +6,13 @@ Python / Django / FastAPI, Scraping, GitHub, Unit & Integration Testing, Hiberna
 
 ---
 
-### 🚀 What I'm working on
-
-* **Создаю проект:** Платформа для тренировки мок-собеседований.
-* Развиваю backend-инфраструктуру на Spring Boot
-* Изучаю способы применения AI/ML в продуктах
+### 📄 [CV](https://drive.google.com/file/d/1KA3y_bEVeC_32A5KySs9L-wDuPtqdeCo/view?usp=sharing) 
 
 ---
 
 ### 🌱 Currently Learning
 
 Advanced Java Concurrency • Advanced Data Bases • Reading Books • Java Patterns • Designing Data-Intensive Applications • AI / ML • Algorithms & Data Structures
-
----
-
-### 🤝 Open to Collaborate
-
-Если вы работаете над backend-продуктами, данными или AI/ML — **давайте объединяться!**
 
 ---
 
@@ -46,12 +35,11 @@ Advanced Java Concurrency • Advanced Data Bases • Reading Books • Java Pat
 | [Trader Bot](https://github.com/artemka-web3/trader_bot)                         | Automated trading strategies.                                | Python                        |
 | [CU Mock Telegram Bot](https://github.com/Txpho0n/prump_2.0/tree/dev)            | Telegram бот для карьерного центра, multithreading + JDBC.   | Java, Telegram API            |
 | [CU Mock Backend](https://github.com/sidnevart/cumock_backend)                   | Backend часть платформы для мок-собесов.                     | Java, Spring Boot, PostgreSQL |
-| [Cu MOck Full Service](https://github.com/sidnevart/cumock)                      | Репозиторий с полным проектом (пока готов только бэк)        | Java, SPring Boot, React      |
+| [Cu MOck Full Service](https://github.com/sidnevart/cumock)                      | Репозиторий с полным проектом (надо архитектуру пилить)      | Java, SPring Boot, React      |
+
 ---
 
 ### 📫 How to reach me
 
 * Telegram: [@sidnevart](https://t.me/sidnevart)
 * Gmail: [a.sidnevart@gmail.com](mailto:a.sidnevart@gmail.com)
-
----
