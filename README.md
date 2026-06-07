@@ -8,7 +8,7 @@ Backend / Platform / AI Automation Engineer. I build data-intensive systems, int
 
 ### 📄 Resume
 
-| Language | Download |
-|----------|----------|
-| English | [resume_en.pdf](./resume_en.pdf) |
-| Русский | [resume_ru.pdf](./resume_ru.pdf) |
+| Track | English | Русский |
+|-------|---------|---------|
+| Backend / Platform | [resume_en.pdf](./resume_en.pdf) | [resume_ru.pdf](./resume_ru.pdf) |
+| AI Engineer | [resume_ai_en.pdf](./resume_ai_en.pdf) | [resume_ai_ru.pdf](./resume_ai_ru.pdf) |
